@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @OdieBandit
+### Hi there!
+- 👋 I’m @OdieBandit
 - 👀 I’m interested in robotics and engineering stuff
 - 🌱 I’m currently learning Python, Arduino, SolidWorks, 3DExperience...
 - 💞️ I’m looking to collaborate on ...
